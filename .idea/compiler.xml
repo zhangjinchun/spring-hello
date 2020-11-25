@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spring-hello" target="11" />
+      <module name="spring-hello" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
